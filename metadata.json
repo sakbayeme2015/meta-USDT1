@@ -1,0 +1,12 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/sakbayeme2015/token-asset2/main/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58.png",
+  "chainId": 10,
+  "tags": ["stablecoin"],
+  "extensions": {
+    "coingeckoId": "",
+    "cmcId": ""
+  }
+}
