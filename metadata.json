@@ -1,10 +1,10 @@
 {
-  "name": "Tether USD",
-  "symbol": "USDT",
+  "name": "Synthetic Tether USD",
+  "symbol": "sUSDT",
   "decimals": 6,
   "logoURI": "https://raw.githubusercontent.com/sakbayeme2015/token-asset2/main/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58.png",
   "chainId": 10,
-  "address": "0x652ccE7E92527438caD7F2788054F9169A6Bca25",
+  "address": "0x57ff5e285106C1069a21FeBab9025b7Da5D5e07A",
   "tags": ["stablecoin"],
   "extensions": {
     "coingeckoId": "",
