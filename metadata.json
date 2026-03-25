@@ -2,7 +2,7 @@
   "name": "Synthetic Tether USD",
   "symbol": "sUSDT",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/sakbayeme2015/token-asset2/main/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58.png",
+  "logoURI": "ipfs://bafkreigjjxj3lvfs2eip65rkup4qvrrhbiwzkrgluzfrdjmtpm52impnmi",
   "chainId": 10,
   "address": "0x0937bC5622Ba1ca501156f809d6d63EA1FF7C9bc",
   "tags": ["stablecoin"],
